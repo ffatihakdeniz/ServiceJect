@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ffatihakdeniz/ServiceJect/blob/main/ServiceJect_Banner.png" width="600"/>
+</p>
+
 # 📦 ServiceJect → Simple Dependency Injection System for Unity
 
 **Geliştiren:** Fatih AKDENİZ  
@@ -90,8 +94,3 @@ Dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 **Fatih AKDENİZ**  
 GitHub: [ffatihakdeniz](https://github.com/ffatihakdeniz)  
 “Karmaşık sistemlere gerek kalmadan sade DI yönetimi. :)”
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ffatihakdeniz/ServiceJect/main/ServiceJect_Banner.png" width="600"/>
-</p>
-
